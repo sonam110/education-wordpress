@@ -1,0 +1,2 @@
+[14-Dec-2017 08:08:07 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/shaildeveloper/public_html/website/client/kmumbai/carpediemsocial.com/tutorsigma/wp-content/themes/template/blog.php on line 63
+[14-Dec-2017 08:21:00 UTC] PHP Fatal error:  Call to undefined function the_expert() in /home/shaildeveloper/public_html/website/client/kmumbai/carpediemsocial.com/tutorsigma/wp-content/themes/template/blog.php on line 67
